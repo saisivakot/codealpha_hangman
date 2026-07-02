@@ -80,7 +80,7 @@ Word: a _ _ _ _
 
 ## 👨‍💻 Author
 
-Sai Sivakoti
+Dhana Sai Sri Sivakoti
 
 B.Tech CSE Student
 
